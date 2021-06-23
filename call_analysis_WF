@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T06:46:34.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="w1Fe8BcAWvhz5w6dpj7x" version="14.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-23T06:48:35.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="M_cNAW91EWoTKbx3-yWB" version="14.8.0" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="987" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -269,13 +269,13 @@
       <root>
         <mxCell id="elSLbs_hXM5sPYSCS3CS-0" />
         <mxCell id="elSLbs_hXM5sPYSCS3CS-1" parent="elSLbs_hXM5sPYSCS3CS-0" />
-        <mxCell id="GiFcC8bDhs7VxwGwyrDW-1" value="Azure Cognitive" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#EBEBEB;align=center;verticalAlign=top;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;labelPosition=center;verticalLabelPosition=bottom;fontStyle=1;fontSize=13;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-1" value="Azure Cognitive" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;verticalAlign=top;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;labelPosition=center;verticalLabelPosition=bottom;fontStyle=1;fontSize=13;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="309.15" y="201" width="319" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-2" value="&lt;span style=&quot;background-color: rgb(227 , 227 , 227)&quot;&gt;Azure - Speech to Text&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-2" value="&lt;span style=&quot;&quot;&gt;Azure - Speech to Text&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;labelBackgroundColor=none;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="360" y="232" width="68" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-5" value="&lt;span style=&quot;background-color: rgb(222 , 222 , 222)&quot;&gt;Azure - Text Analytics&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-5" value="&lt;span style=&quot;&quot;&gt;Azure - Text Analytics&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;labelBackgroundColor=none;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="522" y="232" width="68" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HM_HNgVvOQ6OT00Q5PgN-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
@@ -305,7 +305,7 @@
         <mxCell id="HM_HNgVvOQ6OT00Q5PgN-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698332-icon-110-document-file-ods-128.png" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="531" y="82" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-12" value="&lt;span style=&quot;background-color: rgb(219 , 219 , 219)&quot;&gt;Data Bricks&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;verticalAlign=top;horizontal=1;labelBackgroundColor=#EBEBEB;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-12" value="&lt;span style=&quot;&quot;&gt;Data Bricks&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;verticalAlign=top;horizontal=1;labelBackgroundColor=none;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="451" y="82" width="35.3" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rqJDHTNdgRAalad52Eya-0" value="Azure table&lt;br&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_table;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
@@ -369,7 +369,7 @@
             <mxPoint x="530" y="109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GiFcC8bDhs7VxwGwyrDW-9" value="Logic App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;labelBackgroundColor=#EBEBEB;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-9" value="Logic App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;labelBackgroundColor=#D6D6D6;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="443.53" y="210" width="50.25" height="39" as="geometry" />
         </mxCell>
         <mxCell id="GiFcC8bDhs7VxwGwyrDW-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Batch_AI.svg;labelBackgroundColor=#EBEBEB;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
@@ -378,13 +378,13 @@
         <mxCell id="GiFcC8bDhs7VxwGwyrDW-23" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#EBEBEB;align=center;verticalAlign=bottom;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;labelPosition=center;verticalLabelPosition=top;fontStyle=1;fontSize=13;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="174.99999999999997" y="380" width="319" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GiFcC8bDhs7VxwGwyrDW-20" value="Ourput sheet" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-128.png" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-20" value="&lt;span style=&quot;background-color: rgb(214 , 214 , 214)&quot;&gt;Ourput sheet&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-128.png" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="290" y="393.59999999999997" width="60.8" height="60.8" as="geometry" />
         </mxCell>
-        <mxCell id="GiFcC8bDhs7VxwGwyrDW-21" value="Audio File" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.audio_file;labelBackgroundColor=#EBEBEB;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-21" value="&lt;span style=&quot;background-color: rgb(214 , 214 , 214)&quot;&gt;Audio File&lt;/span&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.audio_file;labelBackgroundColor=#EBEBEB;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="402.6" y="397.20000000000005" width="36.8" height="50.8" as="geometry" />
         </mxCell>
-        <mxCell id="GiFcC8bDhs7VxwGwyrDW-22" value="Call Records" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/48_px_web_icons/48/Calender_Month.png" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-22" value="&lt;span style=&quot;background-color: rgb(214 , 214 , 214)&quot;&gt;Call Records&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/48_px_web_icons/48/Calender_Month.png" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="193" y="400" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
