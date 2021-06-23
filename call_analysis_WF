@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T06:25:33.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="UaIwsApuDej8efU9qz83" version="14.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-23T06:45:39.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="GHyKN2LuPgFuAT41Tjz2" version="14.8.0" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1008" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="987" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,11 +265,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PMvo0HCOwWfYGoBZbb-K" name="Page-2">
-    <mxGraphModel dx="1032" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="987" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="elSLbs_hXM5sPYSCS3CS-0" />
         <mxCell id="elSLbs_hXM5sPYSCS3CS-1" parent="elSLbs_hXM5sPYSCS3CS-0" />
-        <mxCell id="GiFcC8bDhs7VxwGwyrDW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#EBEBEB;align=right;verticalAlign=bottom;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-1" value="Azure Cognitive" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#EBEBEB;align=center;verticalAlign=top;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;labelPosition=center;verticalLabelPosition=bottom;fontStyle=1;fontSize=13;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="309.15" y="201" width="319" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HM_HNgVvOQ6OT00Q5PgN-2" value="&lt;span style=&quot;background-color: rgb(227 , 227 , 227)&quot;&gt;Azure - Speech to Text&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
@@ -279,13 +279,22 @@
           <mxGeometry x="522" y="232" width="68" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HM_HNgVvOQ6OT00Q5PgN-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
-          <mxGeometry x="80" y="200" width="140" height="100" as="geometry" />
+          <mxGeometry x="80" y="200" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-6" value="&lt;blockquote style=&quot;text-align: left ; margin: 0px 0px 0px 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt;Upload Audio File&lt;/span&gt;&lt;br&gt;&lt;/blockquote&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
-          <mxGeometry x="115" y="220" width="60" height="60" as="geometry" />
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="elSLbs_hXM5sPYSCS3CS-1" source="HM_HNgVvOQ6OT00Q5PgN-14" target="GiFcC8bDhs7VxwGwyrDW-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="115" />
+              <mxPoint x="730" y="435" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-14" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;Database&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;align=center;verticalAlign=bottom;horizontal=1;labelPosition=center;verticalLabelPosition=top;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-14" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Database&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;align=center;verticalAlign=bottom;horizontal=1;labelPosition=center;verticalLabelPosition=top;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="241" y="69" width="360" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-6" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;span&gt;Upload&amp;nbsp;&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;span&gt;Audio File&lt;/span&gt;&lt;br&gt;&lt;/blockquote&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;outlineConnect=0;align=right;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="120" y="249" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GiFcC8bDhs7VxwGwyrDW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="elSLbs_hXM5sPYSCS3CS-1" source="HM_HNgVvOQ6OT00Q5PgN-11" target="rqJDHTNdgRAalad52Eya-0">
           <mxGeometry relative="1" as="geometry" />
@@ -302,7 +311,7 @@
         <mxCell id="rqJDHTNdgRAalad52Eya-0" value="Azure table&lt;br&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_table;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="360" y="86" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="rqJDHTNdgRAalad52Eya-3" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.026;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="elSLbs_hXM5sPYSCS3CS-1" source="HM_HNgVvOQ6OT00Q5PgN-7" target="HM_HNgVvOQ6OT00Q5PgN-2">
+        <mxCell id="rqJDHTNdgRAalad52Eya-3" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="elSLbs_hXM5sPYSCS3CS-1" source="HM_HNgVvOQ6OT00Q5PgN-7" target="HM_HNgVvOQ6OT00Q5PgN-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="263" y="280" as="sourcePoint" />
             <mxPoint x="313" y="230" as="targetPoint" />
@@ -365,6 +374,18 @@
         </mxCell>
         <mxCell id="GiFcC8bDhs7VxwGwyrDW-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Batch_AI.svg;labelBackgroundColor=#EBEBEB;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="260" y="210" width="30" height="41.67" as="geometry" />
+        </mxCell>
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-23" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#EBEBEB;align=center;verticalAlign=bottom;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;labelPosition=center;verticalLabelPosition=top;fontStyle=1;fontSize=13;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="174.99999999999997" y="380" width="319" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-20" value="Ourput sheet" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-128.png" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="290" y="393.59999999999997" width="60.8" height="60.8" as="geometry" />
+        </mxCell>
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-21" value="Audio File" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.audio_file;labelBackgroundColor=#EBEBEB;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="402.6" y="397.20000000000005" width="36.8" height="50.8" as="geometry" />
+        </mxCell>
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-22" value="Call Records" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/48_px_web_icons/48/Calender_Month.png" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="193" y="400" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
