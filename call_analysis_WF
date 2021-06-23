@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T06:15:53.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="_rJk9nBeyYVLZYizFe03" version="14.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-23T06:25:33.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="UaIwsApuDej8efU9qz83" version="14.8.0" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1008" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PMvo0HCOwWfYGoBZbb-K" name="Page-2">
-    <mxGraphModel dx="1008" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="elSLbs_hXM5sPYSCS3CS-0" />
         <mxCell id="elSLbs_hXM5sPYSCS3CS-1" parent="elSLbs_hXM5sPYSCS3CS-0" />
@@ -359,6 +359,12 @@
             <mxPoint x="490" y="109" as="sourcePoint" />
             <mxPoint x="530" y="109" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-9" value="Logic App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;labelBackgroundColor=#EBEBEB;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="443.53" y="210" width="50.25" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="GiFcC8bDhs7VxwGwyrDW-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Batch_AI.svg;labelBackgroundColor=#EBEBEB;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="260" y="210" width="30" height="41.67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
