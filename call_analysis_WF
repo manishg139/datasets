@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T09:46:15.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="Fc7oC9pCV62jpqpJGO-X" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T05:54:48.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="bPRbflkIC1_E2GGwdGeK" version="14.8.0" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cVD8CqaMjJ9GqShyWSnc-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;" edge="1" parent="1" source="2">
+        <mxCell id="cVD8CqaMjJ9GqShyWSnc-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;" parent="1" source="2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="281" as="targetPoint" />
           </mxGeometry>
@@ -30,7 +30,7 @@
         <mxCell id="10" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 6&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;New&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Construction&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="188.49999999999991" y="510" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cVD8CqaMjJ9GqShyWSnc-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0066;" edge="1" parent="1" source="12" target="7">
+        <mxCell id="cVD8CqaMjJ9GqShyWSnc-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0066;" parent="1" source="12" target="7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Cognitive Service for Speech Recog" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
@@ -260,6 +260,43 @@
         </mxCell>
         <mxCell id="96" value="System&#xa;version" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="350.9999999999998" y="461" width="30" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PMvo0HCOwWfYGoBZbb-K" name="Page-2">
+    <mxGraphModel dx="1008" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="elSLbs_hXM5sPYSCS3CS-0" />
+        <mxCell id="elSLbs_hXM5sPYSCS3CS-1" parent="elSLbs_hXM5sPYSCS3CS-0" />
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-2" value="Azure - Speech to Text" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="326.12" y="280" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-5" value="Azure - Text Analytics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="480" y="280" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="80" y="200" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-6" value="&lt;blockquote style=&quot;text-align: left ; margin: 0px 0px 0px 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt;Upload Audio File&lt;/span&gt;&lt;br&gt;&lt;/blockquote&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="115" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="elSLbs_hXM5sPYSCS3CS-1" source="HM_HNgVvOQ6OT00Q5PgN-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-14" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="220" y="69" width="320" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-11" value="Azure Blob" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="270" y="80" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698332-icon-110-document-file-ods-128.png" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="425" y="80" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="HM_HNgVvOQ6OT00Q5PgN-12" value="&lt;span style=&quot;background-color: rgb(227 , 227 , 227)&quot;&gt;Data Bricks&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
+          <mxGeometry x="350" y="80" width="44.12" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
