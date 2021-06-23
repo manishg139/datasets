@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T07:14:00.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="GD1lf2ZppxbahRzKmp_E" version="14.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-23T07:49:21.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="MyT1Ei321QJY4dXdsTzT" version="14.8.0" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="987" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -270,13 +270,13 @@
         <mxCell id="elSLbs_hXM5sPYSCS3CS-0" />
         <mxCell id="elSLbs_hXM5sPYSCS3CS-1" parent="elSLbs_hXM5sPYSCS3CS-0" />
         <mxCell id="GiFcC8bDhs7VxwGwyrDW-1" value="Azure Cognitive" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;verticalAlign=top;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;labelPosition=center;verticalLabelPosition=bottom;fontStyle=1;fontSize=13;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
-          <mxGeometry x="309.15" y="201" width="319" height="110" as="geometry" />
+          <mxGeometry x="309.15" y="232" width="319" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HM_HNgVvOQ6OT00Q5PgN-2" value="&lt;span style=&quot;&quot;&gt;Azure - Speech to Text&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;labelBackgroundColor=none;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
-          <mxGeometry x="360" y="232" width="68" height="48" as="geometry" />
+          <mxGeometry x="360" y="263" width="68" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HM_HNgVvOQ6OT00Q5PgN-5" value="&lt;span style=&quot;&quot;&gt;Azure - Text Analytics&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;labelBackgroundColor=none;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
-          <mxGeometry x="522" y="232" width="68" height="48" as="geometry" />
+          <mxGeometry x="522" y="263" width="68" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HM_HNgVvOQ6OT00Q5PgN-7" value="Front End" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;horizontal=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=bottom;fontStyle=1;fontSize=13;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="90" y="190" width="120" height="150" as="geometry" />
@@ -311,18 +311,12 @@
         <mxCell id="rqJDHTNdgRAalad52Eya-0" value="Azure table&lt;br&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_table;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry x="360" y="86" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="rqJDHTNdgRAalad52Eya-3" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="elSLbs_hXM5sPYSCS3CS-1" target="HM_HNgVvOQ6OT00Q5PgN-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="211" y="260" as="sourcePoint" />
-            <mxPoint x="313" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rqJDHTNdgRAalad52Eya-4" value="" style="endArrow=classic;html=1;" edge="1" parent="elSLbs_hXM5sPYSCS3CS-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="428" y="260" as="sourcePoint" />
-            <mxPoint x="520" y="260" as="targetPoint" />
+            <mxPoint x="428" y="290" as="sourcePoint" />
+            <mxPoint x="520" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="260" />
+              <mxPoint x="480" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -370,10 +364,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GiFcC8bDhs7VxwGwyrDW-9" value="Logic App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;labelBackgroundColor=#D6D6D6;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
-          <mxGeometry x="443.53" y="210" width="50.25" height="39" as="geometry" />
+          <mxGeometry x="442.23999999999995" y="232" width="52.83" height="41" as="geometry" />
         </mxCell>
         <mxCell id="GiFcC8bDhs7VxwGwyrDW-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Batch_AI.svg;labelBackgroundColor=#EBEBEB;" vertex="1" parent="elSLbs_hXM5sPYSCS3CS-1">
-          <mxGeometry x="260" y="210" width="30" height="41.67" as="geometry" />
+          <mxGeometry x="350" y="180" width="30" height="41.67" as="geometry" />
         </mxCell>
         <mxCell id="bxdm4zt8CjBnlDFJBKqE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.579;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;" edge="1" parent="elSLbs_hXM5sPYSCS3CS-1" source="GiFcC8bDhs7VxwGwyrDW-23" target="bxdm4zt8CjBnlDFJBKqE-2">
           <mxGeometry relative="1" as="geometry" />
